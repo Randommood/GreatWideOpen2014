@@ -8,7 +8,9 @@ Riak
 
 Redis
 --------------------
-
+* http://www.roguelazer.com/2013/12/a-rant-on-redis/
+* http://www.xdata.me/?p=353
+* http://redis.io/topics/persistence
 
 MongoDB
 -------------

@@ -14,7 +14,7 @@ We will address the challenges and operational specifics of developing against r
 
 * Introduction to Relational Databases
   * A bit of history
-  * Relational tenants & data model (concepts, constraints, properties)
+  * Relational tenets & data model (concepts, constraints, properties)
   * Common mistakes
 * MySQL
   * A bit of context
@@ -42,7 +42,7 @@ We will discuss a few of the most common open source NoSQL databases, their stre
 
 * Introduction to NoSQL Databases
   * A bit of history
-  * Tenants and data model (concepts, properties)
+  * Tenets and data model (concepts, properties)
 * MongoDB
   * Use cases
   * Data model and querying

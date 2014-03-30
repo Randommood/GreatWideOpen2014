@@ -12,8 +12,10 @@ General
 
 MySQL
 -----------------
-* 
-
+* [WebScaleSQL](http://webscalesql.org/)
+* [MySQL Storage Engines](http://dev.mysql.com/doc/refman/5.7/en/storage-engines.html)
+* [TokuDB for MySQL](http://www.tokutek.com/products/tokudb-for-mysql/)
+* [WebScale announcement](http://www.p0ison.com/facebook-google-linkedin-and-twitter-launch-webscalesql-a-custom-version-of-mysql-for-massive-databases/)
 
 
 Postgresql
