@@ -9,7 +9,6 @@ Riak
 * [Riak Docs](http://docs.basho.com/riak/latest/)
 * [From Relational to Riak](http://basho.com/blog/technical/2012/12/19/From-Relational-to-Riak/)
 * [Little Riak Book](https://github.com/coderoshi/little_riak_book/tree/master/rendered/)
-*
 
 Redis
 --------------------
@@ -25,3 +24,4 @@ MongoDB
 * [Mongodb indexes](http://emptysqua.re/blog/optimizing-mongodb-compound-indexes/)
 * [Arrays in MongoDB](http://blog.mongolab.com/2013/04/thinking-about-arrays-in-mongodb/)
 * [MongoDB google group](http://groups.google.com/group/mongodb-user)
+* [How TokuMX was born](http://www.tokutek.com/2014/02/how-tokumx-was-born/)
