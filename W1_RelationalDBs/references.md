@@ -8,6 +8,7 @@ References
 General
 ------------------
 * [Joins](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+* [Database Index](http://en.wikipedia.org/wiki/Database_index)
 *
 
 MySQL

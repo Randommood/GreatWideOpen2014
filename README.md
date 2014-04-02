@@ -26,7 +26,6 @@ We will address the challenges and operational specifics of developing against r
   * Common mistakes
 * Running databases on the Cloud
   * Operational story for developers
-  * Data locality
   * Planning for failures
 * Questions & Resources
 
@@ -47,14 +46,10 @@ We will discuss a few of the most common open source NoSQL databases, their stre
   * Use cases
   * Data model and querying
   * Operational story for developers
+  * Cloud concerns
 * Riak
   * Use cases
   * Data model and querying
   * Operational story for developers
-* Redis
-  * Use cases
-  * Data model and querying
-  * Operational story for developers
-* Running NoSQL databases in the Cloud
-  * Planning for failures
+  * Cloud concerns
 * Questions & Resources
