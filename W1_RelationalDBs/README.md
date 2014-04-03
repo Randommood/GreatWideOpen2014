@@ -1,3 +1,6 @@
+References for the Relational databases in the cloud talk
+============================
+
 General Databases
 ------------------
 * [Relational Databases](http://en.wikipedia.org/wiki/Relational_database)
@@ -16,7 +19,6 @@ MySQL
 * [TokuDB for MySQL](http://www.tokutek.com/products/tokudb-for-mysql/)
 * [WebScale announcement](http://www.p0ison.com/facebook-google-linkedin-and-twitter-launch-webscalesql-a-custom-version-of-mysql-for-massive-databases/)
 * [8 common (but deadly) MySQL operations mistakes and how to avoid them](http://www.mysqlperformanceblog.com/2014/02/12/8-common-but-deadly-mysql-operations-mistakes-and-how-to-avoid-them/)
-
 
 Postgresql
 ----------------

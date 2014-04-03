@@ -1,3 +1,6 @@
+References for the NoSQL Databases in the Cloud talk
+=============================
+
 NoSQL
 -----------
 * [Unshackling Your Data-driven Web Apps](http://siliconangle.com/blog/2012/02/07/guest-post-unshackling-your-data-driven-web-apps/)
