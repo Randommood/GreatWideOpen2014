@@ -5,6 +5,9 @@ The goal of this workshop is for you to understand the pros/cons of a given data
 
 Each part is self-contained and I'll do my best to keep things as interactive as possible. If you have any particular topics you'd like me to cover please open an issue in this repo and I'll do my best to accomodate your needs.
 
+Note that both talks are targeted towards a developer audience. Though some operational concepts are discussed I assume you have little to some Database knowledge and want to learn more.
+
+
 Workshop 1 - Relational Databases in the Cloud
 ------------------
 **Time & Place:** Wednesday April 2nd from 2:30PM-3:15PM - [Developer 1 Track](http://greatwideopen.org/schedule.php)
