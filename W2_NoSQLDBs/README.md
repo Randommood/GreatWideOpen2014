@@ -28,3 +28,4 @@ MongoDB
 * [Arrays in MongoDB](http://blog.mongolab.com/2013/04/thinking-about-arrays-in-mongodb/)
 * [MongoDB google group](http://groups.google.com/group/mongodb-user)
 * [How TokuMX was born](http://www.tokutek.com/2014/02/how-tokumx-was-born/)
+* [5 Books On MongoDB That NoSQL Developers Should Read](http://www.efytimes.com/e1/fullnews.asp?edid=132172)
